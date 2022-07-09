@@ -21,10 +21,12 @@
 
 #Power BI
 - Created Data Visualization Dashboard
+
 ![Image](/powerbi.png)
 
 #Excel Analysis Toolpack
 - Created Data Visualization Charts and Graphs
+
 ![Image](/figure2.5.png)
 ![Image](/figure2.6.png)
 ![Image](/figure2.7.png)
