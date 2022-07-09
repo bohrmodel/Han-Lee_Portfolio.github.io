@@ -13,18 +13,18 @@
 
 ### Data Visualization Project
 
-#Tableau
+# Tableau
 - Created Data Visualization Dashboard using data of Covid-19 cases around the globe, travelers, prices of various stocks, other investment equities.
 ![Image](/a.png)
 
 ![Image](/ab.png)
 
-#Power BI
+# Power BI
 - Created Data Visualization Dashboard
 
 ![Image](/powerbi.png)
 
-#Excel Analysis Toolpack
+# Excel Analysis Toolpack
 - Created Data Visualization Charts and Graphs
 
 ![Image](/figure2.5.png)
