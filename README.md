@@ -1,7 +1,7 @@
 
 
 ### Database Design Project
-- Contributed to designing ERD
+- Contributed to designing ERD and Data Dictionary.
 - Write SQL language to pull information from the database.
 
 # ERD
