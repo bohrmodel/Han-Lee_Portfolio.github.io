@@ -1,9 +1,9 @@
 
 
 ### Database Design Project
-![Image](/a.png)
-![Image](/a.png)
-![Image](/a.png)
+![Image](/database1.png)
+![Image](/database2.png)
+![Image](/database3.png)
 
 ### Data Visualization Project - Tableau
 
@@ -13,10 +13,12 @@
 
 ### Data Visualization Project - Power BI
 
-![Image](/ab.png)
+![Image](/powerbi.png)
 
 ### Data Visualization Project - Excel Analysis Toolpack
 
-![Image](/ab.png)
+![Image](/figure2.5.png)
+![Image](/figure2.6.png)
+![Image](/figure2.7.png)
 
 
